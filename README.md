@@ -114,11 +114,18 @@ The Programs that you will find here are such as follows:
 83.Tower of Hanoi using recursion. 
    -> One disc at a time.
    -> Cannot place a Larger disk over a smaller disk. 
-84.
-85.
-86.
-87.
-89.
+84.Basic template of Singly-Linked List.
+85.Menu-driven Singly-Linked list which asks for:
+         1.Insert at the beginning, after or at any position. 
+          2.Searching the position of a particular value. 
+           3.Deleting from the beginning, ending or from any position. 
+86.Write a program to merge two linked list.
+87.Display the content of linked list in two equal columns. 
+88.Basic Template of Circular Linked List.
+89.Menu-driven Circular-Linked list which asks for:
+         1.Insert at the beginning, after or at any position. 
+          2.Searching the position of a particular value. 
+           3.Deleting from the beginning, ending or from any position
 90.
 
 
