@@ -126,7 +126,11 @@ The Programs that you will find here are such as follows:
          1.Insert at the beginning, after or at any position. 
           2.Searching the position of a particular value. 
            3.Deleting from the beginning, ending or from any position
-90.
+90.Application of Heap data structure in Priority Queue.
+91.Write a program for Heap Sort.
+92.Write a program for binary search tree.
+93.write a program for Quick Sort.
+94.
 
 
 
