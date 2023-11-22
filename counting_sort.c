@@ -1,4 +1,4 @@
-Not Working//Counting Sort
+//Not Working(Segmentation fault) //Counting Sort
 #include<stdio.h>
 void counting_sort(int *A,int Amax,int n)
 {
